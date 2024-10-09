@@ -1,0 +1,14 @@
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\bin\Debug\net8.0\BetterIRacingSDK.exe
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\bin\Debug\net8.0\BetterIRacingSDK.deps.json
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\bin\Debug\net8.0\BetterIRacingSDK.runtimeconfig.json
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\bin\Debug\net8.0\BetterIRacingSDK.dll
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\bin\Debug\net8.0\BetterIRacingSDK.pdb
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\BetterIRacingSDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\BetterIRacingSDK.AssemblyInfoInputs.cache
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\BetterIRacingSDK.AssemblyInfo.cs
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\BetterIRacingSDK.csproj.CoreCompileInputs.cache
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\BetterIRacingSDK.dll
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\refint\BetterIRacingSDK.dll
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\BetterIRacingSDK.pdb
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\BetterIRacingSDK.genruntimeconfig.cache
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\ref\BetterIRacingSDK.dll
