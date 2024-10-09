@@ -26,6 +26,16 @@ public struct IRacingHeader()
     public int TickCount; // Gets the amount of ticks executed
 }
 
+// Define complete struct for data
+public struct IRacingData
+{
+    public IRacingHeader Header;
+    public IRacingData(IRacingHeader header)
+    {
+        Header = header;
+    }
+}
+
 
 public enum BetterIRacingSDKStatus
 {

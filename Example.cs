@@ -7,13 +7,19 @@ public class Example
     public static void Main(String[] args)
     {
         BetterIRacingSDK sdk = new BetterIRacingSDK();
-        if (sdk.isConnected())
+
+        while (true)
         {
-            sdk.ReadMemory();
-        }
-        else
-        {
-            Console.WriteLine("Not connected!");
+            if (sdk.isConnected())
+            {
+                Console.WriteLine("IRacing is verbonden!");
+            }
+            else
+            {
+                Console.WriteLine("IRacing is niet verbonden!");
+            }
+            
+            Thread.Sleep(100);
         }
     }
 }
