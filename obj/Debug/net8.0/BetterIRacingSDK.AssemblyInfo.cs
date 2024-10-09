@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BetterIRacingSDK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcafd3425075141a1699c9fdd3dd3f66194cdb7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BetterIRacingSDK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BetterIRacingSDK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

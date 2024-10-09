@@ -12,3 +12,4 @@ C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\
 C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\BetterIRacingSDK.pdb
 C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\BetterIRacingSDK.genruntimeconfig.cache
 C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\ref\BetterIRacingSDK.dll
+C:\Users\pctco\RiderProjects\BetterIRacingSDK\BetterIRacingSDK\obj\Debug\net8.0\BetterIRacingSDK.sourcelink.json
